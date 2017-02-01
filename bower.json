@@ -1,0 +1,24 @@
+{
+  "name": "project",
+  "description": "这是一个个人项目",
+  "main": "index.js",
+  "authors": [
+    "BOBO"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/public/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.6.0",
+    "angular-route": "^1.6.0",
+    "bootstrap": "^3.3.7"
+  }
+}

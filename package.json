@@ -1,0 +1,23 @@
+{
+  "name": "my_project",
+  "version": "1.0.0",
+  "description": "这是一个个人项目",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "author": "BOBO",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guanbobo1/my_project.git"
+  },
+  "bugs": {
+    "url": "https://github.com/guanbobo1/my_project/issues"
+  },
+  "homepage": "https://github.com/guanbobo1/my_project#readme"
+}
